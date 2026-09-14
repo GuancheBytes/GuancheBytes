@@ -1,16 +1,43 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**GuancheBytes/GuancheBytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- BADGES -->
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Location-Tenerife%20%2F%20Canary%20Islands-0080FF?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/Type-Digital%20Agency-FF5722?style=for-the-badge" alt="Type" />
 
-Here are some ideas to get you started:
+  <br/><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- ISOTIPO Y LOGO -->
+  <a href="https://github.com/tu-usuario/GuancheBytes">
+    <img src="./logo_teide_mar_de_nubes.svg" alt="GuancheBytes Logo" width="180" height="180" />
+  </a>
+
+  # 🌋 GUANCHEBYTES
+  ### **Desarrollo Web & Soluciones Digitales desde Tenerife**
+
+  *Transformando la tecnología en el corazón del Atlántico.*
+
+  <br/>
+
+  <!-- BOTONES INTERACTIVOS -->
+  <a href="#-sobre-nosotros">Sobre Nosotros</a> •
+  <a href="#-stack-tecnológico">Stack Tecnológico</a> •
+  <a href="#-proyectos-destacados">Proyectos</a> •
+  <a href="#-contacto">Contacto</a>
+
+</div>
+
+---
+
+## 📌 Sobre Nosotros
+
+**GuancheBytes** es una agencia digital vanguardista radicada en las Islas Canarias. Combinamos la fuerza y presencia de nuestra tierra con la agilidad del desarrollo moderno.
+
+```ascii
+      /\          G U A N C H E B Y T E S
+     /  \         -----------------------
+    /    \        • Soluciones Web & Mobile
+   /      \       • UI/UX Minimalista & Eficiente
+  /        \      • Arquitectura Cloud & SaaS
+ /~~~~~~~~~~\     • Innovación desde el Mar de Nubes
+/____________\
