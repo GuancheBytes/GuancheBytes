@@ -4,8 +4,8 @@
 
   <br/>
 
-  <img src="https://img.shields.io/badge/Estado-Disponible-brightgreen?style=for-the-badge&logo=github" alt="Estado" />
-  <img src="https://img.shields.io/badge/Ubicación-Tenerife%20%2C%20Islas%20Canarias-0080FF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación" />
+  <!-- CAMBIA 'tu-imagen.png' POR LA RUTA REAL DE TU REPOSITORIO -->
+  <img src="./guanche_bytes_logo.png" alt="Guanchebytes Logo" width="220" />
 
   <br/><br/>
 
