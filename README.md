@@ -1,6 +1,6 @@
-# <p align="center">Guanchebytes - Soluciones digitales & automatización</p>
-
 <div align="center">
+
+  # Guanchebytes - Soluciones digitales & automatización
 
   <img src="https://img.shields.io/badge/Estado-Disponible-brightgreen?style=for-the-badge&logo=github" alt="Estado" />
   <img src="https://img.shields.io/badge/Ubicación-Tenerife%20%2C%20Islas%20Canarias-0080FF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación" />
@@ -13,7 +13,7 @@
 
   <br/><br/>
 
-  # <p align="center">Desarrollo de sitios web, plataformas de reservas & automatización</p>
+  ## Desarrollo de sitios web, plataformas de reservas & automatización
 
   <p align="center">
     En <b>Guanchebytes</b> nos dedicamos a hacer crecer tu negocio en internet. Creamos páginas web modernas, activamos sistemas de reservas automáticos y hacemos que tus clientes te encuentren en Google sin complicaciones.
