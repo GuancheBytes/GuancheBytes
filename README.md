@@ -5,16 +5,16 @@
   <!-- BADGES SUPERIORES -->
   <img src="https://img.shields.io/badge/Estado-Activo-brightgreen?style=for-the-badge&logo=github" alt="Estado" />
   <img src="https://img.shields.io/badge/Ubicación-Tenerife%20%2C%20Islas%20Canarias-0080FF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación" />
-  <img src="https://img.shields.io/badge/Agencia-Digital%20%26%20Automatización-FF5722?style=for-the-badge" alt="Agencia" />
+  <img src="https://img.shields.io/badge/Especialidad-Desarrollo%20%26%20SEO-FF5722?style=for-the-badge" alt="Especialidad" />
 
   <br/><br/>
 
-  <!-- LOGO -->
-  <a href="#-lo-que-hacemos">
-    <img src="./logo_teide_mar_de_nubes.svg" alt="Guanchebytes Logo" width="280" height="280" />
+  <!-- ISOTIPO Y ANIMACIÓN GIF -->
+  <a href="#-elige-tu-proyecto-juego-interactivo">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z2eXp5bnd3aWtzNThqd294NGs4NWg5M3Nyc25scHBpMnR0OHUybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvAQQyVY9/giphy.gif" alt="Teide pixel art animado" width="280" />
   </a>
 
-  <br/>
+  <br/><br/>
 
   # Desarrollo de sitios web, plataformas de reservas & automatización
 
@@ -24,17 +24,47 @@
 
   <br/>
 
-  <!-- NAVEGACIÓN -->
-  <a href="#-lo-que-hacemos">Lo que hacemos</a> •
-  <a href="#-nuestro-stack-tecnológico">Stack tecnológico</a> •
-  <a href="#-nuestro-proceso-de-trabajo">Proceso de trabajo</a> •
-  <a href="#-contacto--soporte">Contacto</a>
+  <!-- BARRA DE NAVEGACIÓN -->
+  <a href="#-elige-tu-proyecto-juego-interactivo">🎮 Minijuego</a> •
+  <a href="#-lo-que-hacemos">🛠️ Lo que hacemos</a> •
+  <a href="#-nuestro-stack-tecnológico">🚀 Stack tecnológico</a> •
+  <a href="#-contacto--soporte">📧 Contacto</a>
 
 </div>
 
 ---
 
-## Lo que hacemos
+## 🎮 Elige tu proyecto (juego interactivo)
+
+Haz clic en la opción que mejor defina tu necesidad actual para desplegar la solución adecuada:
+
+<details>
+  <summary>🕹️ <b>Opción A: "Necesito captar clientes con una web rápida"</b></summary>
+  <br/>
+  <blockquote>
+    <b>🎯 Diagnóstico:</b> Desarrollamos una web a medida optimizada para Google (SEO) y rápida como un rayo.
+  </blockquote>
+</details>
+
+<details>
+  <summary>🕹️ <b>Opción B: "Necesito gestionar citas o alquileres sin caos"</b></summary>
+  <br/>
+  <blockquote>
+    <b>🎯 Diagnóstico:</b> Implementamos un sistema de reservas en tiempo real con pasarela de pago (Stripe/Bizum).
+  </blockquote>
+</details>
+
+<details>
+  <summary>🕹️ <b>Opción C: "Quiero ahorrar 10 horas a la semana en tareas repetitivas"</b></summary>
+  <br/>
+  <blockquote>
+    <b>🎯 Diagnóstico:</b> Automatizamos tus flujos de trabajo conectando tus formularios con WhatsApp, Email y Make/Zapier.
+  </blockquote>
+</details>
+
+---
+
+## 🛠️ Lo que hacemos
 
 <details open>
   <summary><b>1. Páginas web modernas</b></summary>
@@ -93,7 +123,7 @@
 
 ---
 
-## Nuestro stack tecnológico
+## 🚀 Nuestro stack tecnológico
 
 <div align="center">
 
@@ -108,40 +138,9 @@
 
 ---
 
-## Nuestro proceso de trabajo
+## ⚡ Minijuego de consola (en tu terminal)
 
-<div align="center">
+Si ejecutas este comando en tu terminal, podrás jugar a un minijuego interactivo sobre automatización y desarrollo:
 
-`1. Análisis` ➔ `2. Diseño` ➔ `3. Desarrollo` ➔ `4. Medición`
-
-</div>
-
-<br/>
-
-1. **Análisis:** Evaluamos tus necesidades para definir la mejor estrategia.
-2. **Diseño:** Creamos una estructura limpia y optimizada para tus usuarios.
-3. **Desarrollo:** Construimos la web o la plataforma con código seguro y rápido.
-4. **Medición:** Conectamos el SEO, las analíticas y las automatizaciones requeridas.
-
----
-
-## Contacto & soporte
-
-<div align="center">
-
-  **¿Quieres empezar un proyecto con nosotros?**
-
-  <br/>
-
-  <a href="https://wa.me/">
-    <img src="https://img.shields.io/badge/Contactar_por_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="mailto:contacto@guanchebytes.com">
-    <img src="https://img.shields.io/badge/Enviar_email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-
-  <br/><br/>
-
-  <sub>Guanchebytes • Tenerife, España • Hecho con 🌋 y ❤️</sub>
-
-</div>
+```bash
+npx guanchebytes-game
